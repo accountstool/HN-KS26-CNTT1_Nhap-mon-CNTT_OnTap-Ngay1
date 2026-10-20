@@ -1,8 +1,8 @@
 # BÀI LÀM – ÔN TẬP NGÀY 1
 
-- **Họ tên:**
-- **Lớp:**
-- **Link repository:**
+- **Họ tên:** Trần Mạnh Hoa
+- **Lớp:** HN-KS26-CNTT1
+- **Link repository:** https://github.com/accountstool/HN-KS26-CNTT1_Nhap-mon-CNTT_OnTap-Ngay1/
 - **Hệ điều hành (Windows/macOS):** macOS
 
 ## Phần A. Tổ chức thư mục bằng GUI
